@@ -12,18 +12,8 @@
 			]
 		},
 		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
-		},
-		{
-			"Name": "MixamoAnimationRetargeting",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c684998124da4e2583b314dc95403a80"
 		},
 		{
 			"Name": "RawInput",
